@@ -22,7 +22,7 @@ Documentation for a full-stack injury tracking application built with React, Exp
 
 Documentation for a cross-platform mobile game (React Native) that sources 70,000+ historical events at runtime from two public APIs — Wikidata and Wikipedia — with no backend server. Covers the full data pipeline architecture, annotated SPARQL query with clause-by-clause explanation, and complete Wikipedia REST API integration reference.
 
-[View document](./TheHumanTest_Data_Pipeline_Guide.md) · [View project](https://github.com/Ab-Salem/The-Human-Test-IOS-Android)
+[View document](./HumanTest_Data_Pipeline_Guide.md) · [View project](https://github.com/Ab-Salem/The-Human-Test-IOS-Android)
 
 ---
 
